@@ -4,6 +4,7 @@
 
 	<div class="demos_wrap">
 		<div class="demos_container">
+			<h1>Hello, Nick</h1>
 			<ol>
 				<li>PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.</li>
 				<li>Installation: Xamp or Wamp</li>
